@@ -1,0 +1,42 @@
+.btn{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+.btn1{
+   width: 100px;
+   height: 100px;
+   border: 1px solid red; 
+}
+.dom{
+    width: 100px;
+    height: 100px;
+    border: 1px solid yellow;
+}
+
+.p1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid blue;
+}
+
+.kk{
+    width: 100px;
+    height: 100px;
+    border: 1px solid brown;
+}
+.h1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid magenta;
+}
+.h2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid cyan;
+}
+.h3{
+    width: 100px;
+    height: 100px;
+    border: 1px solid orange;
+}
